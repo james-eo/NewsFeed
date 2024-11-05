@@ -2,8 +2,9 @@
 
 A modern, responsive news application built with React, Vite, and Tailwind CSS.
 
-![News Feed Screenshot](/placeholder.svg?height=300&width=600)
-![New Feed Vidoe Clip](https://youtu.be/NfzWPQhcpuw)
+![News Feed Screenshot](https://github.com/james-eo/NewsFeed/blob/main/public/newspage.png)
+
+[New Feed Vidoe Clip](https://youtu.be/NfzWPQhcpuw)
 
 ## 🚀 Features
 
@@ -41,7 +42,7 @@ A modern, responsive news application built with React, Vite, and Tailwind CSS.
    npm install
    ```
 
-4. Create a `.env` file in the root directory and add your News API key:
+4. Create a `.env` file in the root directory and got to [News API](https://newsapi.org/). Create an account and copy your API KEY. Add the News API key:
 
    ```
    VITE_NEWS_API_KEY=api_key_here
@@ -64,8 +65,8 @@ A modern, responsive news application built with React, Vite, and Tailwind CSS.
 
 ## 📸 Screenshots
 
-![Home Page](/placeholder.svg?height=200&width=400)
-![Article View](/placeholder.svg?height=200&width=400)
+![Home Page](https://github.com/james-eo/NewsFeed/blob/main/public/newspage.png)
+![Article View](https://github.com/james-eo/NewsFeed/blob/main/public/newsboard.png)
 
 ## 🤝 Contributing
 
